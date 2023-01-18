@@ -1,0 +1,48 @@
+const brand_list = {
+    "Brand":[]
+    "Toyota":['Premio', 'Sprinter', 'Fielder', 'Corolla', 'RAV4', 'Allion', 'Axio', 'Vista', 'Prius', 'Noah', 'Hilux', 'Hiace', 'Harrier', 'Vios', 'C-HR', 'Passo',
+    'Prado', 'Land Cruiser', 'Aqua', 'Esquire', 'Exiv', 'Corolla Cross', 'Other Model', 'Sienta', 'Starlet', 'Corona', 'Platz', 'ist', 'Vitz', 'Ractis',
+    'Probox', '86', 'Succeed', 'Mark II', 'Alphard', 'Kluger', 'Auris', 'T100', 'Voxy', 'Avanza', 'Rush', 'Raum', 'Yaris Cross', 'Aygo', 'LiteAce',
+    'TownAce', 'Starlet Soleil', 'MR2', 'Carina', 'Mark X', 'Corsa', 'Paseo', 'Crown', 'Highlander', 'Estima', 'X Assista', 'Belta', 'Celica', '2000GT',
+    'RunX', 'Verossa', 'Spacio', 'Camry', 'Wish', 'HiClass', 'Allex', 'Yaris', 'ToyoAce', 'Tercel', 'Cami', 'Cross', 'Progrès', 'Dyna', 'Isis', 'Sienna',
+    'Chaser', 'Echo', 'Soarer']
+    "Nissan":['X-Trail', 'Bluebird', 'Sunny', 'Vanette', 'Sylphy', 'Juke', 'Navara', 'Diesel', 'Teana', 'Patrol', '100NX', 'Carryboy', 'Other Model', 'Cefiro',
+    'Murano', 'Wingroad', 'Urvan', 'March', 'Caravan', 'Hardbody Truck', 'Cube', 'Tiida', 'Rogue', 'Elgrand']
+    "Honda":['Vezel','Grace','CR-V','Civic','Freed','Accord','Insight','Fit','CR-Z','CR-X','City','Jazz','Airwave','HR-V']
+    "Mitsubishi":['Outlander', 'Pajero', 'Challenger', 'Attrage', 'l200', 'Lancer', 'X-Pander', 'Outlandar', 'Galant', 'V6', 'l300', 'GLX', 'Mirage', 'Other Model',
+    'Eclipse Cross', 'ASX']
+    "Hyundai":['H1', 'Tucson', 'Accent', 'Santa Fe', 'Xcent', 'Other Model', 'Sonata', 'Elantra', 'Ancient', 'Terracan', 'Santafi', 'i10']
+    "BMW":['3 Series', '7 Series', 'X5', '5 Series', 'X7', 'M3', '730li', 'X1', '525i', '640i', '1 Series', '520d', 'X3']
+    "Suzuki":['Hustler', 'Wagon R', 'Vitara', 'Alto', 'SX4 S-Cross', 'Ciaz', 'Swift', 'Solio', 'Jimny', 'Liana']
+    "Mazda"[]
+    "Mercedes-Benz":[]
+    "Kia":[]
+    "Maruti Suzuki":[]
+    "Tata",
+    "Ford",
+    "Range Rover",
+    "Lexus",
+    "Proton",
+    "Audi",
+    "Haval",
+    "Mahindra",
+    "Land Rover",
+    "Chery",
+    "Daihatsu",
+    "Volkswagen",
+    "DFSK",
+    "Isuzu",
+    "Fiat",
+    "Zotye",
+    "SsangYong",
+    "Great Wall",
+    "Infiniti",
+    "Porsche",
+    "Geely",
+    "JMC",
+    "Cadillac",
+    "Jaguar",
+    "Jeep",
+    "Changan",
+    "Subaru",
+  }
